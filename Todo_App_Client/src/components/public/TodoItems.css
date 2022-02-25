@@ -1,0 +1,14 @@
+.TodoItems {
+    width: 350px;
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+    margin: 10px 30px;
+}
+.Title{
+    border-bottom: 1px solid gray;
+    display: block;
+    margin: 0px;
+    padding:10px;
+    background-color: antiquewhite;
+}
